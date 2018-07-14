@@ -1,0 +1,99 @@
+
+html {
+    font-size: 90%;
+}
+
+nav {
+    background-color: rgb(241, 237, 237);
+    color: black;
+    margin-bottom: 20px;
+
+}
+
+.intro {
+    background-color: rgb(73,146,100);
+    color: white;
+
+}
+
+.grey {
+    background-color: rgb(241, 237, 237);
+    
+}
+
+.work {
+    padding-top: 20px;
+}
+.projects {
+    width: 100%;
+}
+
+.worktitle {
+    padding-left:70px;
+}
+
+.icon {
+    font-size: 1rem;
+    padding-top: 15px;
+}
+
+.bottom {
+    padding-bottom: 20px;
+}
+
+.lead {
+    margin: 0;
+}
+
+.img {
+    width: 40%;
+    padding-top: 15px;
+}
+
+.last {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.top {
+    padding-top: 15px;
+}
+
+.paragraph {
+    padding: 20px;
+
+}
+
+.aligned {
+    margin-left:-30px;
+    margin-right: -30px;
+}
+
+.some {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#profilepic {
+    width: 80%;
+}
+
+@media screen and (max-width: 600px) {
+    * {
+        font-size: 100%;
+    }
+}
+
+.jumbotron p {
+    font-size: 2rem;
+}
+
+.jumbotron h1 {
+    font-size: 4rem;
+    font-weight: 500;
+}
+
+.card-body, {
+    font-size: 4rem;
+}
